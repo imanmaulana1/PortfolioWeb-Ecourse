@@ -1,0 +1,72 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #b8d5f5;
+}
+
+#nav {
+  background-color: rgb(102, 181, 254);
+}
+
+.nav-label {
+  font: bold 50px courier;
+  color: #393e46;
+}
+
+.nav-item a {
+  color: #463c39;
+}
+
+.nav-item a:hover {
+  text-decoration: underline;
+}
+.btn {
+  background-color: rgb(111, 141, 249);
+  transition: 0.5s;
+}
+
+#btn-signup:hover {
+  background-color: rgb(255, 192, 203);
+  transition: 0.5s;
+  text-decoration: none;
+}
+
+.font {
+  font-family: comic sans ms;
+  color: #393e46;
+}
+
+#btn-ne {
+  background-color: rgb(255, 192, 203);
+  font-family: comic sans ms;
+}
+
+#btn-ne:hover {
+  background-color: rgb(111, 141, 249);
+  transition: 2s;
+  margin-left: 8%;
+}
+
+section {
+  font-family: comic sans ms;
+}
+
+#service {
+  background-color: #9ec8f2;
+}
+
+.partner-image {
+  width: 70px;
+}
+
+#fb,
+#gm,
+#ig {
+  width: 50px;
+  transition: 1s;
+}
+#fb:hover,
+#gm:hover,
+#ig:hover {
+  width: 55px;
+  transition: 1s;
+}
