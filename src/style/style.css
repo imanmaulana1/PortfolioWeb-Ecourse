@@ -70,3 +70,7 @@ section {
   width: 55px;
   transition: 1s;
 }
+
+.image {
+  width: 80%;
+}
