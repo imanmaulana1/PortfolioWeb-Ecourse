@@ -15,7 +15,7 @@ And this portfolio uses a number of open source website to work properly:
 
 ## Access to view
 
-[Landing Page E-Course](https://6396e80ce5a7ff58beab4f6a--classy-hamster-f1d4fc.netlify.app/) 
+[Landing Page E-Course](https://relaxed-malabi-c1de77.netlify.app/) 
 
 
 ## Documentation
